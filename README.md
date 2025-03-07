@@ -1,5 +1,4 @@
 # House-Price-Prediction
-# House Price Prediction - Hackathon
 
 ## Overview
 This project aims to predict house prices using machine learning techniques. Given a dataset with 79 features, including living area, number of rooms, and location, we train a model to learn the relationship between these features and the house prices.
